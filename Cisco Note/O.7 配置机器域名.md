@@ -1,0 +1,1 @@
+	ip domain-name [域名]

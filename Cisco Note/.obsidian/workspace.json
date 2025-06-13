@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "3d935064afb9b362",
+    "type": "split",
+    "children": [
+      {
+        "id": "df6e50ad47f2a075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f64f3ca322c9887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S.5 STP配置.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S.5 STP配置"
+            }
+          },
+          {
+            "id": "2df9cb38a62ac09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N.1 DHCP笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "N.1 DHCP笔记"
+            }
+          },
+          {
+            "id": "3dcb4d79d7494954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93466817bc9c8903",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa18606a28c99a0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b265a444fae806f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "004d1c86966b69da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9dcaa6172724ff4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c7e69932c9f56e77",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db8d30b498eaf26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb53c7e0262d97fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "V.7 GLBP（网关负载均衡协议）配置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "V.7 GLBP（网关负载均衡协议）配置 的反向链接列表"
+            }
+          },
+          {
+            "id": "671d3f198834de66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "V.7 GLBP（网关负载均衡协议）配置.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "V.7 GLBP（网关负载均衡协议）配置 的出链列表"
+            }
+          },
+          {
+            "id": "63d337f03e69c03d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3db9ffcdb6e46ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "V.7 GLBP（网关负载均衡协议）配置.md"
+              },
+              "icon": "lucide-list",
+              "title": "V.7 GLBP（网关负载均衡协议）配置 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3dcb4d79d7494954",
+  "lastOpenFiles": [
+    "@.md",
+    "V.5 HSRP（热备份路由器协议）配置.md",
+    "V.7 GLBP（网关负载均衡协议）配置.md",
+    "V.6 VRRP（虚拟路由器冗余协议）配置.md",
+    "O.4 端口安全.md",
+    "O.3 Telnet 配置.md",
+    "O.2 创建本地用户.md",
+    "O.1 配置Console密码.md",
+    "O.1 配置Enable密码.md",
+    "R.3 EIGRP路由配置.md",
+    "R.4 OSPF路由配置.md",
+    "R.6 路由引入.md",
+    "V.8 端口追踪.md",
+    "V.4 基于端口的NAT配置.md",
+    "T.1 MPLS.md",
+    "T.2 查询.md",
+    "O.6 NTP配置.md",
+    "O.5 配置时间(TIMEZONE).md",
+    "O.7 配置机器域名.md",
+    "N.1 DHCP笔记.md",
+    "N.2 CCNA笔记.md",
+    "R.5 BGP路由配置.md",
+    "R.2 RIP路由配置.md",
+    "S.1 Trunk接口配置.md",
+    "S.3 单臂路由.md",
+    "S.2 VTP配置.md",
+    "Pasted image 20250331142613.png",
+    "S.5.1.1",
+    "Pasted image 20240131103135.png",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Pasted image 20240110101655.png"
+  ]
+}
