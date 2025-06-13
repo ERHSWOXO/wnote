@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5a8c0dacec1cfcab","type":"text","text":"server","x":-220,"y":-200,"width":125,"height":80},
+		{"id":"138694ab0d984dbd","type":"text","text":"client","x":-210,"y":10,"width":105,"height":60},
+		{"id":"26ee5366d3d98c98","type":"text","text":"从web服务器去获取yum","x":-157,"y":-400,"width":250,"height":60,"color":"3"},
+		{"id":"75633f2690ca169a","type":"file","file":"HTTPD部署.md","x":0,"y":-240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"1cff499bf62ea80d","fromNode":"5a8c0dacec1cfcab","fromSide":"bottom","toNode":"138694ab0d984dbd","toSide":"top"}
+	]
+}

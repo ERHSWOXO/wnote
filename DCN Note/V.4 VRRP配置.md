@@ -1,0 +1,6 @@
+- `router vrrp 60`：创建 VRRP 组 60。
+- `virtual-ip 10.10.60.9`：VRRP 组的 **虚拟 IP**，客户端将它作为默认网关。
+- `interface vlan 60`：VRRP 绑定到 **VLAN 60**。
+- `circuit-failover vlan 1021 50`：监听 VLAN 1021 的状态优先级降级值。
+- `priority 120`：该设备的 **VRRP 优先级**，默认为 100，120 说明希望该设备成为主设备
+- `enable`：激活 VRRP。

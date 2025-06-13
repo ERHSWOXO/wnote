@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d1933fa2a6db9ffa","type":"text","text":"client\nLinux","x":-420,"y":-60,"width":155,"height":60},
+		{"id":"ebcdec96253b16d8","type":"text","text":"server\nwindows server \n\n","x":-600,"y":-360,"width":200,"height":100},
+		{"id":"a3825eacd4b6936b","x":-660,"y":-70,"width":140,"height":70,"type":"text","text":"client\nwindows"}
+	],
+	"edges":[
+		{"id":"f6e2f2856553b092","fromNode":"ebcdec96253b16d8","fromSide":"bottom","toNode":"a3825eacd4b6936b","toSide":"top"},
+		{"id":"2d42f9ead8ad38b4","fromNode":"ebcdec96253b16d8","fromSide":"bottom","toNode":"d1933fa2a6db9ffa","toSide":"top"}
+	]
+}
